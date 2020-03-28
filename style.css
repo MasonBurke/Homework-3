@@ -1,0 +1,19 @@
+.container {
+   margin-left: 30%;
+   margin-right: 30%;
+   background-color: grey;
+}
+
+body { 
+    background-color: grey;
+}
+
+.h1 {
+    font-family: 'Oleo Script Swash Caps', cursive;
+    text-align: center;
+}
+
+#password {
+    font-size: xx-large;
+    margin: auto;
+}
